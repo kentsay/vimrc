@@ -12,6 +12,7 @@ set fileencodings=utf-8,cp950
 syntax on        " 語法上色顯示
 filetype on
 
+set title
 set nocompatible 
 set ai           
 set shiftwidth=2 
@@ -32,6 +33,7 @@ set nu
 set laststatus=2
 set statusline=%4*%<\%m%<[%f\%r%h%w]\[%{&ff},%{&fileencoding},%Y]%=\[Position=%l,%v,%p%%]
 set t_Co=256
+set foldmethod=marker
 
 let Tlist_Show_One_File = 1       
 let Tlist_Exit_OnlyWindow = 1		   
