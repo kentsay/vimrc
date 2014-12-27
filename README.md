@@ -7,6 +7,22 @@ I use vundle to manage my vim plugins, which makes my .vim directory clean and t
 
 will be good for you.
 
+How to install this?
+-----
+First, clone this repository to .vim under your home directory.
+```
+git clone https://github.com/kentsay/vimrc .vim
+```
+Second, copy the .vimrc under your directory.
+```
+cp .vim/vimrc ~/.vimrc
+```
+Third, install vundle
+```
+git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+```
+Last, edit your .vimrc and edit the plugin you want.
+
 Plugins I use
 -----
 Plugins I used are listed as fellow, will update and add more explanation of detail usage.
@@ -22,7 +38,7 @@ Plugins I used are listed as fellow, will update and add more explanation of det
   - vim-javascript
   - vim-latex
 
-How to manage this vimrc?
+How to manage my vim plugins?
 -----
 All plugins are listed in file .vimrc, just add plugins as you like. You can also separate to another file like bundles.vim and source it in you .vimrc file. 
 
