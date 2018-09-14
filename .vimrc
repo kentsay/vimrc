@@ -71,6 +71,8 @@ Bundle 'git://git.wincent.com/command-t.git'
 Bundle 'airblade/vim-gitgutter.git'
 Bundle 'pangloss/vim-javascript.git'
 Bundle 'git://vim-latex.git.sourceforge.net/gitroot/vim-latex/vim-latex/'
+Plugin 'artur-shaik/vim-javacomplete2'
+Plugin 'unite.vim'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
