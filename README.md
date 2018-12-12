@@ -36,7 +36,8 @@ Plugins I used are listed as fellow, will update and add more explanation of det
   - vim-autoclose
   - vim-gitgutter
   - vim-javascript
-  - vim-latex
+  - vim-javacomplete2
+  - unite.vim (awesome)
 
 How to manage my vim plugins?
 -----
