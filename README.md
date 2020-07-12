@@ -2,8 +2,8 @@ kentsay's vimrc
 =====
 
 I use vundle to manage my vim plugins, which makes my .vim directory clean and tidy. If you are new to vim, the following two posts
-  - [Vim Introduction and Tutorial] (http://blog.interlinked.org/tutorials/vim_tutorial.html)
-  - [How to use vundle to manage vim plugins] (https://www.digitalocean.com/community/articles/how-to-use-vundle-to-manage-vim-plugins-on-a-linux-vps)
+  - [Vim Introduction and Tutorial](http://blog.interlinked.org/tutorials/vim_tutorial.html)
+  - [How to use vundle to manage vim plugins](https://www.digitalocean.com/community/articles/how-to-use-vundle-to-manage-vim-plugins-on-a-linux-vps)
 
 will be good for you.
 
@@ -29,7 +29,7 @@ Plugins I used are listed as fellow, will update and add more explanation of det
   - vundle
   - nerdtree
   - xmledit
-  - [mru] (https://github.com/yegappan/mru/wiki/User-Manual)
+  - [mru](https://github.com/yegappan/mru/wiki/User-Manual)
   - AutoComplPop
   - command-t 
   - vim-powerline 
