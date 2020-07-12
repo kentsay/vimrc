@@ -9,7 +9,7 @@ call pathogen#helptags()
 set encoding=utf-8
 set fileencodings=utf-8,cp950
 
-syntax on        " 語法上色顯示
+syntax on
 filetype on
 
 set title
