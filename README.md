@@ -15,7 +15,7 @@ git clone https://github.com/kentsay/vimrc .vim
 ```
 Second, copy the .vimrc under your directory.
 ```
-cp .vim/vimrc ~/.vimrc
+cp .vim/.vimrc ~/.vimrc
 ```
 Third, install vundle
 ```
