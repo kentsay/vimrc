@@ -29,6 +29,7 @@ Plugins I used are listed as fellow, will update and add more explanation of det
   - vundle
   - nerdtree
   - xmledit
+  - [mru] (https://github.com/yegappan/mru/wiki/User-Manual)
   - AutoComplPop
   - command-t 
   - vim-powerline 
